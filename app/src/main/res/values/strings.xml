@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formulir</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_submit">Submit</string>
+    <string name="nama">Nama Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="konsen">Konsentrasi</string>
+    <string name="judul">Judul Skripsi</string>
+    <string name="haris">Haris Setiawan</string>
+    <string name="damar">Cahya Damarjati</string>
+    <string name="april">Aprilia Kurniati</string>
+    <string name="navname">Formulir Skripsi</string>
+    <string name="dosen1">Dosen Pembimbing 1</string>
+    <string name="dosen2">Dosen Pembimbing 2</string>
+
+
+
+</resources>
